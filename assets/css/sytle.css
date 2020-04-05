@@ -1,0 +1,26 @@
+body {
+    background: url(../imgs/gray_sand.png);
+}
+
+.footer {
+    height: 50px;
+    background-color: #9ba17b;
+}
+
+.jumbotron {
+    background-color: #9ba17b;
+}
+
+.container {
+    color: #f7f9e0;
+}
+
+.subTitle {
+    color: #9ba17b;
+    border-bottom: solid 2px #ffe39b;
+    padding-bottom: 10px;
+}
+
+.fab {
+    font-size: 3em;
+}
