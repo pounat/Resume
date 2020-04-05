@@ -21,6 +21,16 @@ body {
     padding-bottom: 10px;
 }
 
-.fab {
+.fab, .far {
     font-size: 3em;
+    margin: 0 20px 0 20px;
+    padding: 0;
+}
+
+a {
+    color: black;
+}
+
+a:hover{
+    color: rgb(49, 48, 48);
 }
