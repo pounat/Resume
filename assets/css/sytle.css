@@ -34,3 +34,13 @@ a {
 a:hover{
     color: rgb(49, 48, 48);
 }
+
+@media print {
+    .container {
+        color: black;
+    }
+
+    .subTitle {
+        border-bottom: solid 2px #9BA17B;
+    }
+}
